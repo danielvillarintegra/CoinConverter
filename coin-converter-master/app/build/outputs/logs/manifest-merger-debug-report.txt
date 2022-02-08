@@ -1,0 +1,269 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2b2248d20d5842266772ea85bb12df96\transformed\viewbinding-7.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.insert-koin:koin-android-ext:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4baf96ef0842b1b7037922957dca4289\transformed\koin-android-ext-3.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4566e1c05bbc09fcb3140d6ae86fde1f\transformed\koin-android-3.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\49a5cabb02e49345e994368d2175d774\transformed\fragment-ktx-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\528ead69a89b0b73fd6f8a294dfd4bc8\transformed\activity-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\dfca18bcf8e97e4496d6aa784f2fb9a2\transformed\core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Daniel\.gradle\caches\transforms-3\bbe72befe303613310206fde12d861b8\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\1449edb0616fb55479e59e22a617b687\transformed\room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\1a5e7551a3ee7b5a92b69d4ffb7748c1\transformed\lifecycle-runtime-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\560496f4f089ae1280af355d0136e991\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\eda0869e3715ed2b7fb65ff70fca4ce9\transformed\lifecycle-livedata-core-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\917f060534e12a7f26a56742f0711fe4\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Daniel\.gradle\caches\transforms-3\3075027bc24dd0432b0e1dcf0a4e2fe9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\56c6a4e70980cc99d8f4852a242deb44\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\928cc21b9fe4fc9337286dad9795cc31\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\5fbc94bfe47eaabfabdebf093a123c53\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\c05d9c0a9904ed9ddbc798eb3ebfc01c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\9150e2a2104baf542dd82866321e53b8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\335e890b7fb2aaf893b9db64fa082f76\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\d6c78fac7fbab5c3ad80fd61f4763812\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\9daee355adfacde8fdf9e23741a44edb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\8207a4e4da296424bfbeba0f1ebd52ef\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\25242c0d883aece1a4afc6bcad7dc21b\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\51cf661f7e279bfc443039b04b46e189\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\187b2d62b74dea00f60647ea07742ded\transformed\fragment-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\741d00a1533be83f30809591ab409525\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\37517599e335cf663c3b99f671e755f9\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\dea17b9225c0ec46d8937b6064aa814f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\e1c1a99d13343ed2103719a7ca46dbf8\transformed\activity-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\a25da039690580bbe7a0a215ab09aa9d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\2915e327bb57197416f8ea1cf78ec91b\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\d9c9a60eb47ab2ca27567fbebc5f985d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\a44874a00fe7f6e90fe00f51fe9321dc\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\44b8d5ba0436f204ae80e8389e53a27c\transformed\lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\a0afcac0235f6c0cdeb8b0418755ae66\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\597b65305fe9dc21ec7495a96755a93e\transformed\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\182edde4230fddda2407d8a3a2399207\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\7c660d731a4fb87fa233991264fd3b46\transformed\lifecycle-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2170b1dd61f68783d6913b34415bd164\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\4b60ec89cf79dd99d1379ddb412fd85d\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Daniel\.gradle\caches\transforms-3\21a29f85507628ac739b6b45638c0200\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\661ecf93f46b36c184e2906b57a4297d\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\b80e1a9af0e120fd8aafd86edd26a8bf\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2d8d55caa844735efd3c60372875bc50\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\08593f60a40c0de0b6149ddf416e7fec\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\7d7273e813851e6f620e524dba4a1c8f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\cc98b2c8d5cc027ac1c42604c81b8d21\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\1e82bcd723a92de88c7e2464e7608c01\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\e20b58888a465c6a4e98c8348705b2ed\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\d30f2c89ca691739b0da55c6506f1e83\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [io.insert-koin:koin-android-ext:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4baf96ef0842b1b7037922957dca4289\transformed\koin-android-ext-3.0.1\AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android-ext:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4baf96ef0842b1b7037922957dca4289\transformed\koin-android-ext-3.0.1\AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4566e1c05bbc09fcb3140d6ae86fde1f\transformed\koin-android-3.0.1\AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4566e1c05bbc09fcb3140d6ae86fde1f\transformed\koin-android-3.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\917f060534e12a7f26a56742f0711fe4\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\917f060534e12a7f26a56742f0711fe4\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Daniel\.gradle\caches\transforms-3\3075027bc24dd0432b0e1dcf0a4e2fe9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Daniel\.gradle\caches\transforms-3\3075027bc24dd0432b0e1dcf0a4e2fe9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\928cc21b9fe4fc9337286dad9795cc31\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\928cc21b9fe4fc9337286dad9795cc31\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\2915e327bb57197416f8ea1cf78ec91b\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\2915e327bb57197416f8ea1cf78ec91b\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2d8d55caa844735efd3c60372875bc50\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2d8d55caa844735efd3c60372875bc50\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\2915e327bb57197416f8ea1cf78ec91b\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:8:9-28
+activity#br.com.dio.coinconverter.ui.main.MainActivity
+ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:15:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#br.com.dio.coinconverter.ui.history.HistoryActivity
+ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:23:9-64
+	android:name
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml:23:19-61
+uses-sdk
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2b2248d20d5842266772ea85bb12df96\transformed\viewbinding-7.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2b2248d20d5842266772ea85bb12df96\transformed\viewbinding-7.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.insert-koin:koin-android-ext:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4baf96ef0842b1b7037922957dca4289\transformed\koin-android-ext-3.0.1\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android-ext:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4baf96ef0842b1b7037922957dca4289\transformed\koin-android-ext-3.0.1\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4566e1c05bbc09fcb3140d6ae86fde1f\transformed\koin-android-3.0.1\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:3.0.1] C:\Users\Daniel\.gradle\caches\transforms-3\4566e1c05bbc09fcb3140d6ae86fde1f\transformed\koin-android-3.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\49a5cabb02e49345e994368d2175d774\transformed\fragment-ktx-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\49a5cabb02e49345e994368d2175d774\transformed\fragment-ktx-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\528ead69a89b0b73fd6f8a294dfd4bc8\transformed\activity-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\528ead69a89b0b73fd6f8a294dfd4bc8\transformed\activity-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\dfca18bcf8e97e4496d6aa784f2fb9a2\transformed\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\dfca18bcf8e97e4496d6aa784f2fb9a2\transformed\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Daniel\.gradle\caches\transforms-3\bbe72befe303613310206fde12d861b8\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Daniel\.gradle\caches\transforms-3\bbe72befe303613310206fde12d861b8\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\1449edb0616fb55479e59e22a617b687\transformed\room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\1449edb0616fb55479e59e22a617b687\transformed\room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\1a5e7551a3ee7b5a92b69d4ffb7748c1\transformed\lifecycle-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\1a5e7551a3ee7b5a92b69d4ffb7748c1\transformed\lifecycle-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\560496f4f089ae1280af355d0136e991\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\560496f4f089ae1280af355d0136e991\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\eda0869e3715ed2b7fb65ff70fca4ce9\transformed\lifecycle-livedata-core-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\eda0869e3715ed2b7fb65ff70fca4ce9\transformed\lifecycle-livedata-core-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\917f060534e12a7f26a56742f0711fe4\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\917f060534e12a7f26a56742f0711fe4\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Daniel\.gradle\caches\transforms-3\3075027bc24dd0432b0e1dcf0a4e2fe9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Daniel\.gradle\caches\transforms-3\3075027bc24dd0432b0e1dcf0a4e2fe9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\56c6a4e70980cc99d8f4852a242deb44\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\56c6a4e70980cc99d8f4852a242deb44\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\928cc21b9fe4fc9337286dad9795cc31\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\928cc21b9fe4fc9337286dad9795cc31\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\5fbc94bfe47eaabfabdebf093a123c53\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\5fbc94bfe47eaabfabdebf093a123c53\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\c05d9c0a9904ed9ddbc798eb3ebfc01c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\c05d9c0a9904ed9ddbc798eb3ebfc01c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\9150e2a2104baf542dd82866321e53b8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\9150e2a2104baf542dd82866321e53b8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\335e890b7fb2aaf893b9db64fa082f76\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\335e890b7fb2aaf893b9db64fa082f76\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\d6c78fac7fbab5c3ad80fd61f4763812\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\d6c78fac7fbab5c3ad80fd61f4763812\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\9daee355adfacde8fdf9e23741a44edb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\9daee355adfacde8fdf9e23741a44edb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\8207a4e4da296424bfbeba0f1ebd52ef\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\8207a4e4da296424bfbeba0f1ebd52ef\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\25242c0d883aece1a4afc6bcad7dc21b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\25242c0d883aece1a4afc6bcad7dc21b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\51cf661f7e279bfc443039b04b46e189\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\51cf661f7e279bfc443039b04b46e189\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\187b2d62b74dea00f60647ea07742ded\transformed\fragment-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\187b2d62b74dea00f60647ea07742ded\transformed\fragment-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\741d00a1533be83f30809591ab409525\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\741d00a1533be83f30809591ab409525\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\37517599e335cf663c3b99f671e755f9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\37517599e335cf663c3b99f671e755f9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\dea17b9225c0ec46d8937b6064aa814f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\dea17b9225c0ec46d8937b6064aa814f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\e1c1a99d13343ed2103719a7ca46dbf8\transformed\activity-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\e1c1a99d13343ed2103719a7ca46dbf8\transformed\activity-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\a25da039690580bbe7a0a215ab09aa9d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\a25da039690580bbe7a0a215ab09aa9d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\2915e327bb57197416f8ea1cf78ec91b\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Daniel\.gradle\caches\transforms-3\2915e327bb57197416f8ea1cf78ec91b\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\d9c9a60eb47ab2ca27567fbebc5f985d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\d9c9a60eb47ab2ca27567fbebc5f985d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\a44874a00fe7f6e90fe00f51fe9321dc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\a44874a00fe7f6e90fe00f51fe9321dc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\44b8d5ba0436f204ae80e8389e53a27c\transformed\lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\44b8d5ba0436f204ae80e8389e53a27c\transformed\lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\a0afcac0235f6c0cdeb8b0418755ae66\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\a0afcac0235f6c0cdeb8b0418755ae66\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\597b65305fe9dc21ec7495a96755a93e\transformed\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\597b65305fe9dc21ec7495a96755a93e\transformed\lifecycle-livedata-core-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\182edde4230fddda2407d8a3a2399207\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\182edde4230fddda2407d8a3a2399207\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\7c660d731a4fb87fa233991264fd3b46\transformed\lifecycle-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\7c660d731a4fb87fa233991264fd3b46\transformed\lifecycle-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2170b1dd61f68783d6913b34415bd164\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2170b1dd61f68783d6913b34415bd164\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\4b60ec89cf79dd99d1379ddb412fd85d\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\4b60ec89cf79dd99d1379ddb412fd85d\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Daniel\.gradle\caches\transforms-3\21a29f85507628ac739b6b45638c0200\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Daniel\.gradle\caches\transforms-3\21a29f85507628ac739b6b45638c0200\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\661ecf93f46b36c184e2906b57a4297d\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\661ecf93f46b36c184e2906b57a4297d\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\b80e1a9af0e120fd8aafd86edd26a8bf\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\b80e1a9af0e120fd8aafd86edd26a8bf\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2d8d55caa844735efd3c60372875bc50\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\2d8d55caa844735efd3c60372875bc50\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\08593f60a40c0de0b6149ddf416e7fec\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\08593f60a40c0de0b6149ddf416e7fec\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\7d7273e813851e6f620e524dba4a1c8f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\7d7273e813851e6f620e524dba4a1c8f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\cc98b2c8d5cc027ac1c42604c81b8d21\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\cc98b2c8d5cc027ac1c42604c81b8d21\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\1e82bcd723a92de88c7e2464e7608c01\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\1e82bcd723a92de88c7e2464e7608c01\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\e20b58888a465c6a4e98c8348705b2ed\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Daniel\.gradle\caches\transforms-3\e20b58888a465c6a4e98c8348705b2ed\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\d30f2c89ca691739b0da55c6506f1e83\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Daniel\.gradle\caches\transforms-3\d30f2c89ca691739b0da55c6506f1e83\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\dio-carrefour-mobile-20220209\m25-criando-um-app-para-conversao-de-moedas-e-cambio\coin-converter-master\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Daniel\.gradle\caches\transforms-3\0885fe7538fc4b1b2a2d3746f18eb28c\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Daniel\.gradle\caches\transforms-3\3e638b72f4de09a0b6fdca2d81f1843c\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
