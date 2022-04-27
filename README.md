@@ -19,9 +19,12 @@ Conquiste as melhores oportunidades com o Carrefour como desenvolvedor mobile. P
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Villar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/daniel-villar-326477212)](linkedin.com/in/daniel-villar-326477212)   [![Gmail Badge](https://img.shields.io/badge/-danielvillarintegra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielvillarintegra@gmail.com)](mailto:danielvillarintegra@gmail.com)
 
 
-#### Alterações realizadas:
+#### Alterações em andamento / realizadas:
 
-- Até o momento esse projeto não sofreu alterações.
+- Em execução: 
+    a) Adição de API para cotação de cripto moedas (CoinAPI e/ou Nomict BQJ) que permitirá converter valores de moedas reais em cripto moedas e vice versa;
+    b) Utilização de Spring boot;
+    c) Utilização de Firebase;
 
 #### Possíveis ações futuras:
 
